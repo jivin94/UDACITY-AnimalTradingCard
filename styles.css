@@ -1,0 +1,31 @@
+#cat {
+width: 300px;
+height: 200px;
+margin-bottom: 10px;
+}
+#italic{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+#list{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#main-div{
+    border: 1px solid black;
+    padding: 15px;
+    width: 300px;
+}
+#second-div{
+    border: 1px solid black;
+}
+#margin{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
